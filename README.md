@@ -15,7 +15,7 @@ src="https://media.giphy.com/media/108M7gCS1JSoO4/giphy.gif?cid=bb5a1c3aegvipk3i
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2cxMGRuZGhiOWcyZ2YxcWljYWI1eWZwZHE4dmR3emhodDNrNG5lYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/HqRn3u6PsIoIFynans/giphy.gif" width="100" height="100" />
 
 
-https://babymonsrott.github.io/myportfolio/
+
 
 
 
