@@ -6,7 +6,9 @@ Have a good day
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 ---------------
 
-(https://babymonsrott.github.io/myportfolio/)
+https://babymonsrott.github.io/myportfolio/
+
+
 <img
 src="https://media.giphy.com/media/108M7gCS1JSoO4/giphy.gif?cid=bb5a1c3aegvipk3ibd96ljmtyf3w43qn52ps8gba2tylnzgd&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="100" height="100" />
 <img
